@@ -2,7 +2,7 @@
   "name": "wsmarkowitz.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wsmarkowitz.github.io/",
+  "homepage": "https://wsmarkowitz.github.io/wsmarkowitz.github.io",
   "dependencies": {
     "@rebass/components": "^4.0.0-1",
     "@rebass/grid": "^6.1.0",
