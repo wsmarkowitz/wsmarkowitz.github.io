@@ -1,7 +1,7 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 import { Box } from 'rebass';
-import { ThemeProvider, useTheme } from 'styled-components';
+import { ThemeProvider } from 'styled-components';
 import {theme} from './theme'
 
 function App() {
